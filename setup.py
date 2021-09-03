@@ -5,7 +5,7 @@ with open('requirements.txt', 'r') as fp:
 
 setup(
     name='MuteCog',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT',
     description='Mute users.',
     author='@natsuki__yu',
